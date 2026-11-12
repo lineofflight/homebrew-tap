@@ -1,6 +1,6 @@
 cask "canape" do
-  version "0.5.0"
-  sha256 "982600110ecf9ad92a433cd7f08c3961d1a423ee2e2f40b5b3ae4b9b3a5f15f4"
+  version "0.6.0"
+  sha256 "00bcb7ce135e79d031b563325f2b1de595304e6860f04447336850f9ee56a151"
 
   url "https://cana.pe/cli/canape-#{version}.zip"
   name "Canape CLI"
